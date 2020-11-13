@@ -129,7 +129,6 @@ class PersonaBook {
 		int entryNum = 0;
 
 		input.nextLine();
-		breakOps:
 		while(true) {
 			System.out.printf("%n%-20s%n%n", "UPDATE ENTRY");
 			System.out.print("Entry No. (Negative numbers cancels selection): ");

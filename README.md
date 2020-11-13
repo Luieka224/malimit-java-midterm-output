@@ -8,8 +8,8 @@ This repository contains the java file of my midterm output named PersonaBook. P
 * Remove an Entry
 * View All Entries
 * Update an Entry
-* Remove All Entries
-* Search an Entry
+* Remove All Entries*
+* Search an Entry*
 * Terminate Program
 
-I've added 2 new funcitonalities that were not included as the requirements but will be useful for users.
+*I've added 2 new functionalities that were not included as the requirements but will be useful for users.
